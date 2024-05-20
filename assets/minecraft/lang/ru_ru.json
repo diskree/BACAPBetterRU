@@ -402,7 +402,7 @@
   "You can't actually store arrows in it": "Вы не можете хранить в нём стрелы",
   "Just gotta find six more": "Просто нужно найти ещё шесть",
   "Your strider deserved it": "Ваша лавомерка заслужила это",
-  "Birthday Cake": "Торт на День рождения",
+  "Birthday Cake": "Торт на день рождения",
   "Utilised by the Mayor from Powerpuff Girls": "Используется мэром от «Крутые девчонки»",
   "Many people called her the personification of the sea itself...": "Многие называли её олицетворением самого моря…",
   "This universe is finite, its resources, finite": "Эта вселенная конечна, её ресурсы конечны",
@@ -441,7 +441,7 @@
   "Use bone meal to grow a sapling into a tree": "Используйте костную муку, чтобы вырастить дерево из саженца",
   "Plant every single type of crop on farmland": "Посадите все виды сельскохозяйственных культур на грядки",
   "An Apple a Day": "По яблоку в день",
-  "Eat an Apple every day for 30 in-game days": "Ешьте яблоко каждый день на протяжении 30 игровых дней",
+  "Eat an Apple every day for 30 in-game days": "Ешьте яблоко 30 игровых дней подряд",
   "Goat out of here!": "Сама напросилась!",
   "Slaughter a Goat": "Убейте козу",
   "Breed two Goats together using Wheat": "Размножьте двух коз пшеницей",
@@ -794,6 +794,9 @@
   "Food items eaten:": "Съедено продуктов питания:",
   "Loot chests opened:": "Обыскано сундуков в данжах:",
   "Gold Bartered to Piglins:": "Сделок с пиглинами:",
-  "You have eaten an apple every day for": "Вы ели яблоко каждый день в течение",
-  "%1$s tab": "Вкладка «%1$s»"
+  "You have eaten an apple every day for": "Вы ели яблоко",
+  "days.": "игровых дней подряд.",
+  "%1$s tab": "Вкладка «%1$s»",
+  "Spend a day underwater": "Проведите игровой день под водой",
+  "Big question is: Can you do this all day?": "Хороший вопрос: Сможешь ли ты продержаться игровой день?"
 }
